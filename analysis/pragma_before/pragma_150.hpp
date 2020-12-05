@@ -1,0 +1,4 @@
+#ifndef NUKEAKKOR_HPP
+#define NUKEAKKOR_HPP
+
+#endif // NUKEAKKOR_HPP

@@ -1,0 +1,4 @@
+#ifndef JOTDQDWX_HPP
+#define JOTDQDWX_HPP
+
+#endif // JOTDQDWX_HPP

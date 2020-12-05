@@ -1,0 +1,4 @@
+#ifndef NIRAGXMR_HPP
+#define NIRAGXMR_HPP
+
+#endif // NIRAGXMR_HPP

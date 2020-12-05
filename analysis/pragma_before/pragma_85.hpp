@@ -1,0 +1,4 @@
+#ifndef WIGOWIFGDDEX_HPP
+#define WIGOWIFGDDEX_HPP
+
+#endif // WIGOWIFGDDEX_HPP

@@ -1,0 +1,4 @@
+#ifndef SOCHEWYUBGQ_HPP
+#define SOCHEWYUBGQ_HPP
+
+#endif // SOCHEWYUBGQ_HPP

@@ -1,0 +1,4 @@
+#ifndef HFINZYOC_HPP
+#define HFINZYOC_HPP
+
+#endif // HFINZYOC_HPP

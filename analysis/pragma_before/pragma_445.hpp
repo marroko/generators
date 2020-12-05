@@ -1,0 +1,4 @@
+#ifndef RKAJJCNPT_HPP
+#define RKAJJCNPT_HPP
+
+#endif // RKAJJCNPT_HPP

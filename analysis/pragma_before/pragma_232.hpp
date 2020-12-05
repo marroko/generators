@@ -1,0 +1,4 @@
+#ifndef BZSBNTLEKH_HPP
+#define BZSBNTLEKH_HPP
+
+#endif // BZSBNTLEKH_HPP

@@ -1,0 +1,4 @@
+#ifndef TGFUYUUQAZLA_HPP
+#define TGFUYUUQAZLA_HPP
+
+#endif // TGFUYUUQAZLA_HPP

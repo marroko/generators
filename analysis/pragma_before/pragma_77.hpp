@@ -1,0 +1,4 @@
+#ifndef YHHGSZHUVTF_HPP
+#define YHHGSZHUVTF_HPP
+
+#endif // YHHGSZHUVTF_HPP

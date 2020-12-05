@@ -1,0 +1,4 @@
+#ifndef XYRJYWMNAGX_HPP
+#define XYRJYWMNAGX_HPP
+
+#endif // XYRJYWMNAGX_HPP

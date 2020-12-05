@@ -1,0 +1,4 @@
+#ifndef VTDHTLIIUOGO_HPP
+#define VTDHTLIIUOGO_HPP
+
+#endif // VTDHTLIIUOGO_HPP

@@ -1,0 +1,4 @@
+#ifndef FAGTKMHXKRUG_HPP
+#define FAGTKMHXKRUG_HPP
+
+#endif // FAGTKMHXKRUG_HPP

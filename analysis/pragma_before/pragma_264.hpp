@@ -1,0 +1,4 @@
+#ifndef EKBTYPYU_HPP
+#define EKBTYPYU_HPP
+
+#endif // EKBTYPYU_HPP

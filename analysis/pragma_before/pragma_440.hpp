@@ -1,0 +1,4 @@
+#ifndef YDUFJRRCWXAX_HPP
+#define YDUFJRRCWXAX_HPP
+
+#endif // YDUFJRRCWXAX_HPP

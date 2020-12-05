@@ -1,0 +1,4 @@
+#ifndef ELVEZXCAMW_HPP
+#define ELVEZXCAMW_HPP
+
+#endif // ELVEZXCAMW_HPP

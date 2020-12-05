@@ -1,0 +1,4 @@
+#ifndef BHQMSCBN_HPP
+#define BHQMSCBN_HPP
+
+#endif // BHQMSCBN_HPP

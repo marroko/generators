@@ -1,0 +1,4 @@
+#ifndef OLJGYAJFET_HPP
+#define OLJGYAJFET_HPP
+
+#endif // OLJGYAJFET_HPP

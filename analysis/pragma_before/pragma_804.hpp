@@ -1,0 +1,4 @@
+#ifndef FGWTXKHGIIJX_HPP
+#define FGWTXKHGIIJX_HPP
+
+#endif // FGWTXKHGIIJX_HPP

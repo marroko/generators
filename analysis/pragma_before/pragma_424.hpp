@@ -1,0 +1,4 @@
+#ifndef RCMQQNZI_HPP
+#define RCMQQNZI_HPP
+
+#endif // RCMQQNZI_HPP

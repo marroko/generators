@@ -1,0 +1,4 @@
+#ifndef INNREBONEA_HPP
+#define INNREBONEA_HPP
+
+#endif // INNREBONEA_HPP

@@ -1,0 +1,4 @@
+#ifndef OTNZQNKF_HPP
+#define OTNZQNKF_HPP
+
+#endif // OTNZQNKF_HPP

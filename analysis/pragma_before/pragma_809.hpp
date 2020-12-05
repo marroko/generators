@@ -1,0 +1,4 @@
+#ifndef DAMDAQXG_HPP
+#define DAMDAQXG_HPP
+
+#endif // DAMDAQXG_HPP

@@ -1,0 +1,4 @@
+#ifndef AJAUZITNKTO_HPP
+#define AJAUZITNKTO_HPP
+
+#endif // AJAUZITNKTO_HPP

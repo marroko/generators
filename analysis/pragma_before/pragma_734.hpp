@@ -1,0 +1,4 @@
+#ifndef GERVZKBLK_HPP
+#define GERVZKBLK_HPP
+
+#endif // GERVZKBLK_HPP

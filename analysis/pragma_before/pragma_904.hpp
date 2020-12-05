@@ -1,0 +1,4 @@
+#ifndef BCNZGARFOKG_HPP
+#define BCNZGARFOKG_HPP
+
+#endif // BCNZGARFOKG_HPP

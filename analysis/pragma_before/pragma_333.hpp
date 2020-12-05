@@ -1,0 +1,4 @@
+#ifndef GHMVTYDOA_HPP
+#define GHMVTYDOA_HPP
+
+#endif // GHMVTYDOA_HPP

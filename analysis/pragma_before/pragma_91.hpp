@@ -1,0 +1,4 @@
+#ifndef HHSSFNQW_HPP
+#define HHSSFNQW_HPP
+
+#endif // HHSSFNQW_HPP

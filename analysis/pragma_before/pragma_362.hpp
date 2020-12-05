@@ -1,0 +1,4 @@
+#ifndef YQXZQRWUMX_HPP
+#define YQXZQRWUMX_HPP
+
+#endif // YQXZQRWUMX_HPP

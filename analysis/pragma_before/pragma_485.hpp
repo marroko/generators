@@ -1,0 +1,4 @@
+#ifndef MQOLTSKAR_HPP
+#define MQOLTSKAR_HPP
+
+#endif // MQOLTSKAR_HPP

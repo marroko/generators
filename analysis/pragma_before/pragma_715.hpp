@@ -1,0 +1,4 @@
+#ifndef VWMKOLJJ_HPP
+#define VWMKOLJJ_HPP
+
+#endif // VWMKOLJJ_HPP

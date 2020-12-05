@@ -1,0 +1,4 @@
+#ifndef ROYNPJZWP_HPP
+#define ROYNPJZWP_HPP
+
+#endif // ROYNPJZWP_HPP

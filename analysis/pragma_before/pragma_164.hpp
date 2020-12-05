@@ -1,0 +1,4 @@
+#ifndef VVBTCQMFQE_HPP
+#define VVBTCQMFQE_HPP
+
+#endif // VVBTCQMFQE_HPP

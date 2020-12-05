@@ -1,0 +1,4 @@
+#ifndef YFRSHVFDF_HPP
+#define YFRSHVFDF_HPP
+
+#endif // YFRSHVFDF_HPP

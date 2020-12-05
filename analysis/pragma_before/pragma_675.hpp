@@ -1,0 +1,4 @@
+#ifndef WTYJYOLV_HPP
+#define WTYJYOLV_HPP
+
+#endif // WTYJYOLV_HPP

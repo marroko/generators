@@ -1,0 +1,4 @@
+#ifndef BMTHWSMJ_HPP
+#define BMTHWSMJ_HPP
+
+#endif // BMTHWSMJ_HPP

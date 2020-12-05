@@ -1,0 +1,4 @@
+#ifndef PGASZMCPIAW_HPP
+#define PGASZMCPIAW_HPP
+
+#endif // PGASZMCPIAW_HPP

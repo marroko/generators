@@ -1,0 +1,4 @@
+#ifndef GLSUARCKVB_HPP
+#define GLSUARCKVB_HPP
+
+#endif // GLSUARCKVB_HPP

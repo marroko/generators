@@ -1,0 +1,4 @@
+#ifndef TCFQTMAYO_HPP
+#define TCFQTMAYO_HPP
+
+#endif // TCFQTMAYO_HPP

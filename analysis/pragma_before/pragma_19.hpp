@@ -1,0 +1,4 @@
+#ifndef MKFDFAGTI_HPP
+#define MKFDFAGTI_HPP
+
+#endif // MKFDFAGTI_HPP

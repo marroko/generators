@@ -1,0 +1,4 @@
+#ifndef EENWTGTQEJ_HPP
+#define EENWTGTQEJ_HPP
+
+#endif // EENWTGTQEJ_HPP

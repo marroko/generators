@@ -1,0 +1,4 @@
+#ifndef NMRGFLOIRS_HPP
+#define NMRGFLOIRS_HPP
+
+#endif // NMRGFLOIRS_HPP

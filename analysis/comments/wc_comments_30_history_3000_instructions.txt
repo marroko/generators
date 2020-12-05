@@ -1,0 +1,3 @@
+ 19229  40370 195000 ./comments_after.cpp
+ 19260  58026 273918 ./comments_before.cpp
+ 38489  98396 468918 total
