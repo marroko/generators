@@ -1,0 +1,41 @@
+
+real	0m2.157s
+user	0m0.028s
+sys	0m0.825s
+
+real	0m2.096s
+user	0m0.080s
+sys	0m0.780s
+
+real	0m2.355s
+user	0m0.023s
+sys	0m0.846s
+
+real	0m2.548s
+user	0m0.020s
+sys	0m0.844s
+
+real	0m2.105s
+user	0m0.016s
+sys	0m0.874s
+
+real	0m2.047s
+user	0m0.002s
+sys	0m0.884s
+
+real	0m1.987s
+user	0m0.022s
+sys	0m0.803s
+
+real	0m1.883s
+user	0m0.015s
+sys	0m0.869s
+
+real	0m1.986s
+user	0m0.020s
+sys	0m0.885s
+
+real	0m1.875s
+user	0m0.020s
+sys	0m0.882s
+AVG_BEFORE: 2.1039
